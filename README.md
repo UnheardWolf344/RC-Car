@@ -1,5 +1,5 @@
 # RC-Car
-A 1/18th or 1/16th scale RC car, with an onboard ESP32 that connects to another ESP32 inside a custom 3d printed controller.
+A 1/18th or 1/16th scale RC car, with an onboard ESP32 that connects to a gamepad (like an Xbox One controller) using bluetooth.
 
 ## Links
 - Hackclub Stasis: https://stasis.hackclub.com/dashboard/projects/cmmifxdj2003o01m6b75dz8uj
